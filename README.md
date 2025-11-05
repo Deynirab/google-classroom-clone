@@ -5,7 +5,7 @@ Create a simple front-end clone of Google Classroom that displays classes using 
 
 ## Requirements
 
-1. **Data Structure**
+1.                                                                           **Data Structure**
    - Use an array of objects to represent classes
    - Each class object should include:
      * Unique identifier
